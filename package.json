@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pizzicato": "^0.6.4",
+    "pizzicato-recorder": "^1.0.3"
+  }
+}
